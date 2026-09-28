@@ -1,0 +1,14 @@
+Finding intermodel H-bonds
+Finding intramodel H-bonds
+Constraints relaxed by 0.4 angstroms and 20 degrees
+Models used:
+	1 1N8Z.cif
+
+6 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/A ASN 30 ND2  /C GLN 602 OE1  no hydrogen  3.221  N/A
+/A THR 94 OG1  /C ASP 560 OD2  no hydrogen  2.823  N/A
+/C LYS 569 NZ  /A TYR 92 OH    no hydrogen  2.957  N/A
+/C LYS 593 NZ  /B GLY 103 O    no hydrogen  2.417  N/A
+/C HOH 1045 O  /A ASP 28 OD1   no hydrogen  2.475  N/A
+/C HOH 1045 O  /A ASN 30 OD1   no hydrogen  3.498  N/A

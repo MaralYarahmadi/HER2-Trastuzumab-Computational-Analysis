@@ -1,0 +1,84 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0.4
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: True
+
+76 contacts
+    atom1           atom2       overlap  distance
+/C PRO 571 O    /A HIS 91 CD2    0.292    2.888
+/C GLN 602 OE1  /A THR 31 CG2    0.252    3.048
+/C LYS 593 NZ   /B GLY 103 O     0.243    2.417
+/C GLN 602 OE1  /A THR 31 CB     0.166    3.134
+/C GLN 602 NE2  /A ASN 30 ND2    0.160    3.120
+/C PRO 603 CG   /A SER 50 CB     0.145    3.615
+/C GLU 558 CD   /B TYR 57 CB     0.096    3.664
+/C GLU 558 CG   /B TYR 57 CD1    0.066    3.574
+/C PRO 571 CB   /A ALA 32 CB     0.065    3.695
+/C ASP 560 OD2  /B ARG 50 NH2    0.059    2.601
+/C PRO 572 CA   /A TYR 92 O      0.056    3.244
+/C LYS 593 NZ   /B GLY 103 C     0.046    3.204
+/C PHE 573 CD1  /B TYR 105 CE1   0.040    3.480
+/C PRO 572 CD   /A HIS 91 O      0.010    3.290
+/C HOH 1045 O   /A ASP 28 OD1    0.005    2.475
+/C PRO 557 CB   /B TYR 57 CZ     -0.022    3.512
+/C PRO 572 N    /A HIS 91 O      -0.049    3.109
+/C PRO 571 CB   /A TYR 92 CA     -0.071    3.831
+/C PHE 573 CD1  /B TYR 105 CZ    -0.071    3.441
+/C PRO 571 CB   /A TYR 92 CD1    -0.072    3.712
+/C PHE 573 CE1  /B TYR 105 CE2   -0.073    3.593
+/C ASP 560 OD2  /A THR 94 CB     -0.086    3.386
+/C PRO 603 CB   /A PHE 53 CZ     -0.088    3.728
+/C PRO 572 CB   /A HIS 91 O      -0.093    3.393
+/C PRO 557 CG   /B TYR 57 CE2    -0.105    3.745
+/C HOH 1045 O   /A ASP 28 CG     -0.106    3.446
+/C PRO 603 CG   /A PHE 53 CE1    -0.116    3.756
+/C GLU 558 OE2  /B ARG 59 CD     -0.125    3.425
+/C LYS 593 CE   /B GLY 103 O     -0.139    3.439
+/C PRO 571 O    /B TYR 105 CD1   -0.140    3.320
+/C PRO 557 CB   /B TYR 57 CE1    -0.143    3.783
+/C ASP 596 OD2  /A ASN 30 OD1    -0.146    2.986
+/C PRO 603 CD   /A PHE 53 CE1    -0.159    3.799
+/C PHE 573 CZ   /B TYR 33 CZ     -0.161    3.531
+/C LYS 593 NZ   /B GLY 103 CA    -0.168    3.688
+/C PRO 572 CA   /A HIS 91 O      -0.189    3.489
+/C GLN 561 NE2  /B ARG 59 CD     -0.192    3.712
+/C PRO 571 CG   /A TYR 92 CD1    -0.194    3.834
+/C ASP 560 CG   /B ARG 50 NH2    -0.194    3.714
+/C PHE 573 CZ   /B TYR 33 OH     -0.196    3.416
+/C GLU 558 CD   /B ARG 50 NH1    -0.220    3.740
+/C PRO 557 CB   /B TYR 57 OH     -0.221    3.561
+/C LYS 569 NZ   /A TYR 92 CZ     -0.221    3.471
+/C GLN 561 CG   /B ARG 59 NH1    -0.252    3.772
+/C HOH 1045 O   /A ASN 30 CB     -0.254    3.594
+/C ILE 591 CG2  /B GLY 103 CA    -0.256    4.016
+/C LYS 569 NZ   /A TYR 92 OH     -0.257    2.957
+/C PRO 603 CD   /A SER 50 CB     -0.270    4.030
+/C PHE 573 CE1  /B TYR 105 CZ    -0.270    3.640
+/C GLU 558 CG   /B TYR 57 CB     -0.274    4.034
+/C PRO 572 CD   /B TYR 105 CB    -0.286    4.046
+/C GLU 558 OE2  /B ARG 59 CG     -0.288    3.588
+/C PRO 572 CB   /A TYR 92 O      -0.290    3.590
+/C PRO 557 CG   /B TYR 57 CD2    -0.295    3.935
+/C PRO 557 CG   /B TYR 57 CZ     -0.298    3.788
+/C PRO 603 CB   /A PHE 53 CE1    -0.301    3.941
+/C ASP 570 CG   /B TYR 105 CE1   -0.305    3.945
+/C GLN 602 CD   /A ASN 30 ND2    -0.313    3.563
+/C PRO 557 CB   /B TYR 57 CE2    -0.316    3.956
+/C ASP 570 O    /B TYR 105 CE1   -0.316    3.496
+/C PRO 603 CG   /A SER 50 OG     -0.319    3.659
+/C PRO 572 CB   /A THR 93 CA     -0.326    4.086
+/C ASP 560 OD2  /A THR 94 OG1    -0.343    2.823
+/C PHE 573 CE1  /B TYR 105 CD2   -0.345    3.865
+/C PRO 571 CG   /A ALA 32 CB     -0.353    4.113
+/C PRO 557 CG   /B TYR 57 CE1    -0.357    3.997
+/C PRO 572 CD   /B TYR 105 CD1   -0.359    3.999
+/C PRO 571 C    /A HIS 91 O      -0.363    3.393
+/C ASP 570 OD2  /B GLY 103 CA    -0.363    3.663
+/C PRO 571 CG   /A TYR 92 CE1    -0.366    4.006
+/C PRO 603 CB   /A PHE 53 CE2    -0.366    4.006
+/C PHE 573 CZ   /B TYR 33 CE1    -0.368    3.888
+/C PRO 571 C    /A HIS 91 CD2    -0.373    3.743
+/C PHE 573 CD1  /B TYR 105 CE2   -0.379    3.899
+/C PRO 603 O    /A PHE 53 CZ     -0.384    3.564
+/C GLU 558 OE1  /B TYR 57 CB     -0.389    3.689
